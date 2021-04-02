@@ -12,9 +12,9 @@ Link: Spatial-Temporal Neural Network for P300 Detection with Applications Using
 * numpy
 * random
 # Materials
-* [BCI Competition III-dataset II] (http://www.bbci.de/competition/iii/)
+* [BCI Competition III-dataset II] (/http://www.bbci.de/competition/iii/)
 * Provided by Wadsworth Center, NYS Department of Health (Jonathan R. Wolpaw, Gerwin Schalk, Dean Krusienski)
-* the goal is to estimate to which letter of a 6-by-6 matrix with successively intensified rows resp. columns the subject was paying attention to; data from 2 subjects
+* The goal is to estimate to which letter of a 6-by-6 matrix with successively intensified rows resp. columns the subject was paying attention to; data from 2 subjects
 * 36 classes, 64 EEG channels (0.1-60Hz), 240Hz sampling rate, 85 training and 100 test trials, recorded with the BCI2000 system 
 # Run on the device
 * run demo.ipynb
