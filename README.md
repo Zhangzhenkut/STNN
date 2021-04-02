@@ -13,6 +13,7 @@ Link: Spatial-Temporal Neural Network for P300 Detection with Applications Using
 * random
 # Materials
 * [BCI Competition III-dataset II] (http://www.bbci.de/competition/iii/)
+* provided by Wadsworth Center, NYS Department of Health (Jonathan R. Wolpaw, Gerwin Schalk, Dean Krusienski) 
 # Run on the device
 * run demo.ipynb
 * Trust me, after 1-5 mins, you will reach an accuracy greater than more than 90%.
