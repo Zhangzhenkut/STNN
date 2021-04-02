@@ -3,7 +3,7 @@ Link: Spatial-Temporal Neural Network for P300 Detection with Applications Using
 # Introduction
 * Spatial-Temporal Neural Network for P300 Detection, written in Pytorch.  
 * This is a novel DL-based model for P300 detection, providing a validated biological EEG signal processing technology.  
-* We encourage to use of this model in various EEG processing tasks.
+** We encourage to use of this model in various EEG processing tasks.**
 # Requirements
 * Python  
 * Pytorch  
@@ -16,4 +16,4 @@ Link: Spatial-Temporal Neural Network for P300 Detection with Applications Using
 36 classes, 64 EEG channels (0.1-60Hz), 240Hz sampling rate, 85 training and 100 test trials, recorded with the BCI2000 system 
 # Run on the device
 * Run demo.ipynb
-* Trust me, , you will reach an accuracy greater than more than 90% after 1-5 mins
+* Trust me, you will reach an accuracy greater than more than 90% after 1-5 mins
