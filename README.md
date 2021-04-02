@@ -7,5 +7,9 @@ Link: Spatial-Temporal Neural Network for P300 Detection with Applications Using
 # Requirements
 * Python  
 * Pytorch  
+* scipy
+* collections
+* numpy
+* random
 
 
