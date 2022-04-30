@@ -21,4 +21,4 @@ Link: Spatial-Temporal Neural Network for P300 Detection.
 * Run demo.ipynb
 * Trust me, you will reach an accuracy greater than more than 90% after 1-5 mins
 # Paper Citation
-* Zhang Z, Yu X, Rong X, et al. Spatial-Temporal Neural Network for P300 Detection[J]. IEEE Access, 2021, 9: 163441-163455.
+* Zhang, Zhen, et al. "Spatial-Temporal Neural Network for P300 Detection." IEEE Access 9 (2021): 163441-163455.
