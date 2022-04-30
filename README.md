@@ -1,5 +1,5 @@
 # STNN-for-P300-detection
-Link: Spatial-Temporal Neural Network for P300 Detection.
+Link: Spatial-Temporal Neural Network for P300 Detection.https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9632597
 # Introduction
 * Spatial-Temporal Neural Network for P300 Detection, written in Pytorch.  
 * This is a novel DL-based model for P300 detection, providing a validated biological EEG signal processing technology.  
